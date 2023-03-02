@@ -1,0 +1,26 @@
+{
+    "Amazon": {
+        "email": "demo@email.com",
+        "password": "XEJsMls9ai3y#7(%)"
+    },
+    "Facebook": {
+        "email": "demo@email.com",
+        "password": "c0IU2yr)v3%cl"
+    },
+    "Twitter": {
+        "email": "demo@email.com",
+        "password": "+IzMoe1!Up7u0"
+    },
+    "Instagram": {
+        "email": "demo@email.com",
+        "password": "r679(OFkEw(+VHF"
+    },
+    "Repl.it": {
+        "email": "demo@email.com",
+        "password": "4(u%5I)l$PhBPs0"
+    },
+    "Jenkins": {
+        "email": "demo@email.com",
+        "password": "test1234"
+    }
+}
