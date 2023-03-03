@@ -1,13 +1,24 @@
-IDE: Pycharm using Python 3.9
+Operating System: Any OS with Python 3.9 installed
 
-Included libraries: random, tnkinter, password, json
+Python 3.9 Installed
 
-Flow of execution: Once ran the user can start by looking up a pre-existing password within the application
-i.e. Amazon/Facebook. This will pull the corosponding user/email and password form the existing JSON file.
-When implementing a new password, the user must fill out all fields including the website, emai/user, and password, which
-can be user input or generated itself. Once the data has been saved, it writes to the JSON file and can now be called
-back via the website lookup.
+Programming Language: Python 3.9
 
-Issues: Thus far there are no issues, as this was a base code implementation for our project.
+IDE: Pycharm
 
-Suggestion/Feedback: N/A
+Adopted libraries: random, tnkinter, password, json
+
+Cryptography: This library is used for implementing the honey encryption algorithm.
+
+First, download or clone the source code from the repository. Install the necessary libraries as referenced in the
+"Adopted libraries" section. Execute the file "main.py" to run the program. The program will prompt the user for the
+choice of operation (i.e., storing a new password or retrieving an existing password). Follow the instructions
+displayed on the screen to complete the desired operation.
+
+Commands to run the code: Execute the command "python main.py" in the terminal or command prompt.
+
+Issues and solutions: If you encounter any issues while running the code, please ensure that you have installed all of
+the necessary libraries.
+If you still face any issues, please refer to the documentation provided in the repository or contact the developer.
+
+
