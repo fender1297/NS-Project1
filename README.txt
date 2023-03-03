@@ -10,6 +10,8 @@ Adopted libraries: random, tnkinter, password, json
 
 Cryptography: This library is used for implementing the honey encryption algorithm.
 
+Github Link: https://github.com/fender1297/NS-Project1
+
 First, download or clone the source code from the repository. Install the necessary libraries as referenced in the
 "Adopted libraries" section. Execute the file "main.py" to run the program. The program will prompt the user for the
 choice of operation (i.e., storing a new password or retrieving an existing password). Follow the instructions
